@@ -12,6 +12,100 @@
 -----YWYLDPWGTGTLVTISS-
 >Sus_scrofa|H|Sus scrofa|IGHJ5*01
 -----YYAMDLWGPGVEVVVSS-
+>Canis_lupus|H|Canis_lupus|IGHJ6*01
+-----YYGMDYWGHGTSLFVSS-
+>Bos_taurus|H|Bos taurus_Holstein|IGHJ2-4*01
+-------YVDAWGQGLLVTVSS-
+>Vicugna_pacos|H|Vicugna pacos|IGHJ2*01
+-----YRYLEVWGQGTLVTVSS-
+>Vicugna_pacos|H|Vicugna pacos|IGHJ6*01
+-------DFGSWGQGTQVTVSS-
+>Vicugna_pacos|H|Vicugna pacos|IGHJ3*01
+------NALDAWGQGTLVTVSS-
+>Sus_scrofa|H|Sus scrofa|IGHJ1*01
+-----HGYLDSWGQGILVTVSS-
+>Mus|H|Mus musculus_BALB/c|IGHJ1*01
+-----YWYFDVWGAGTTVTVSS-
+>Mus|H|Mus musculus|IGHJ1*02
+-----YWYFDVWGAGTTVTVSS-
+>Mus|H|Mus musculus_A/J|IGHJ1*03
+-----YWYFDVWGTGTTVTVSS-
+>Canis_lupus|H|Canis_lupus|IGHJ2*01
+-----HDYLDLWGQGTLVTVSS-
+>Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ5*01
+------DWLDLWGQGTLVTVSS-
+>Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ5*02
+------DWLDLWGQGTLVTVSS-
+>Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ3*02
+------DRLDPWGQGTLVTVSS-
+>Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ3*01
+-----DTRLDLWGQGTLVTVSS-
+>Vicugna_pacos|H|Vicugna pacos|IGHJ5*01
+------PQFEYWGQGTLVTVS--
+>Felus_catus|H|Felus_catus|IGHJ2*01
+-----YWYFDLWGRGTLVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ2*01
+-----YWYFDLWGRGTLVTVSS-
+>Mus|H|Mus musculus|IGHJ3*01
+-------WFAYWGQGTLVTVSA-
+>Canis_lupus|H|Canis_lupus|IGHJ3*01
+------NAFGYWGQGTLVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ5*01
+------NWFDSWGQGTLVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ5*01
+------NWFDSWGQGTLVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ5*02
+------NWFDPWGQGTLVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ5*02
+------NWFDPWGQGTLVTVSS-
+>Canis_lupus|H|Canis_lupus|IGHJ5*01
+------NWFYYWGQGTLVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ1*01
+-----AEYFQHWGQGTLVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ1*01
+-----AEYFQHWGQGTLVTVSS-
+>Mus|H|Mus musculus|IGHJ2*02
+-------YFDYWGQGTSLTVSS-
+>Mus|H|Mus musculus|IGHJ2*03
+-------YFDYWGQGTSLTVSS-
+>Mus|H|Mus musculus|IGHJ2*01
+-------YFDYWGQGTTLTVSS-
+>Felus_catus|H|Felus_catus|IGHJ4*01
+-------YFDYWGQGTLVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ4*02
+-------YFDYWGQGTLVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ4*03
+-------YFDYWGQGTLVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ4*01
+-------YFDYWGQGTLVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ4*02
+-------YFDYWGQGTLVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ4*03
+-------YFDYWGQGTLVTVSS-
+>Canis_lupus|H|Canis_lupus|IGHJ4*01
+-------NFDYWGQGTLVTVSS-
+>Canis_lupus|H|Canis_lupus|IGHJ1*01
+-----DIYFDLWGPGTLVTISS-
+>Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ4*01
+-------YFNLWGPGTLVTVSS-
+>Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ4*02
+-------YFNIWGPGTLVTVSS-
+>Macaca_mulatta|H|Macaca mulatta|IGHJ5-1*01
+------NRFDVWGPGVLVTVSS-
+>Macaca_mulatta|H|Macaca mulatta|IGHJ5-2*01
+------NSLDVWGQGVLVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ3*01
+------DAFDVWGQGTMVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ3*01
+------DAFDVWGQGTMVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ3*02
+------DAFDIWGQGTMVTVSS-
+>Homo_sapiens|H|Homo sapiens|IGHJ3*02
+------DAFDIWGQGTMVTVSS-
+>Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ2*01
+------DAFDPWGPGTLVTVSS-
+>Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ2*02
+------DAFDPWGPGTLVTVSS-
 >Vicugna_pacos|H|Vicugna pacos|IGHJ4*01
 -------EYDYWGQGTQVTVSS-
 >Mus|H|Mus musculus|IGHJ4*01
@@ -22,80 +116,48 @@
 -----YYGMDPWGPGTLVTVSS-
 >Vicugna_pacos|H|Vicugna pacos|IGHJ7*01
 -----YYGMDYWGKGTLVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ6*01
+--YYYYYGMDVWGQGTTVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ6*02
+--YYYYYGMDVWGQGTTVTVSS-
 >Homo_sapiens|H|Homo sapiens|IGHJ6*01
 --YYYYYGMDVWGQGTTVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ6*03
+--YYYYYYMDVWGKGTTVTVSS-
+>Felus_catus|H|Felus_catus|IGHJ6*04
+--YYYYYGMDVWGKGTTVTVSS-
 >Homo_sapiens|H|Homo sapiens|IGHJ6*04
 --YYYYYGMDVWGKGTTVTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ3*01
-------DAFDVWGQGTMVTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ3*02
-------DAFDIWGQGTMVTVSS-
->Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ2*01
-------DAFDPWGPGTLVTVSS-
->Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ2*02
-------DAFDPWGPGTLVTVSS-
->Sus_scrofa|H|Sus scrofa|IGHJ1*01
------HGYLDSWGQGILVTVSS-
->Vicugna_pacos|H|Vicugna pacos|IGHJ6*01
--------DFGSWGQGTQVTVSS-
->Vicugna_pacos|H|Vicugna pacos|IGHJ2*01
------YRYLEVWGQGTLVTVSS-
->Mus|H|Mus musculus|IGHJ3*01
--------WFAYWGQGTLVTVSA-
->Vicugna_pacos|H|Vicugna pacos|IGHJ5*01
-------PQFEYWGQGTLVTVS--
->Mus|H|Mus musculus_BALB/c|IGHJ1*01
------YWYFDVWGAGTTVTVSS-
->Mus|H|Mus musculus|IGHJ1*02
------YWYFDVWGAGTTVTVSS-
->Mus|H|Mus musculus_A/J|IGHJ1*03
------YWYFDVWGTGTTVTVSS-
->Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ4*01
--------YFNLWGPGTLVTVSS-
->Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ4*02
--------YFNIWGPGTLVTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ2*01
------YWYFDLWGRGTLVTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ1*01
------AEYFQHWGQGTLVTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ5*01
-------NWFDSWGQGTLVTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ5*02
-------NWFDPWGQGTLVTVSS-
->Mus|H|Mus musculus|IGHJ2*02
--------YFDYWGQGTSLTVSS-
->Mus|H|Mus musculus|IGHJ2*03
--------YFDYWGQGTSLTVSS-
->Mus|H|Mus musculus|IGHJ2*01
--------YFDYWGQGTTLTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ4*01
--------YFDYWGQGTLVTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ4*02
--------YFDYWGQGTLVTVSS-
->Homo_sapiens|H|Homo sapiens|IGHJ4*03
--------YFDYWGQGTLVTVSS-
->Bos_taurus|H|Bos taurus_Holstein|IGHJ2-4*01
--------YVDAWGQGLLVTVSS-
->Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ3*02
-------DRLDPWGQGTLVTVSS-
->Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ3*01
------DTRLDLWGQGTLVTVSS-
->Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ5*01
-------DWLDLWGQGTLVTVSS-
->Oryctolagus_cuniculus|H|Oryctolagus cuniculus|IGHJ5*02
-------DWLDLWGQGTLVTVSS-
->Vicugna_pacos|H|Vicugna pacos|IGHJ3*01
-------NALDAWGQGTLVTVSS-
->Macaca_mulatta|H|Macaca mulatta|IGHJ5-1*01
-------NRFDVWGPGVLVTVSS-
->Macaca_mulatta|H|Macaca mulatta|IGHJ5-2*01
-------NSLDVWGQGVLVTVSS-
 >Homo_sapiens|A|Homo sapiens|TRAJ7*01
 ---DYGNNRLAFGKGNQVVVIP-
+>Homo_sapiens|G|Homo sapiens|TRGJP2*01
+----SSDWIKTFAKGTRLIVTSP
+>Mus|G|Mus musculus|TRGJ4*01
+---SGTSWVKIFAKGTKLVVIPP
+>Homo_sapiens|G|Homo sapiens|TRGJP1*01
+----TTGWFKIFAEGTKLIVTSP
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ13*01
+----NSGTYQRFGTGTKLQVVP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ26*01
+---NNYAQGLTFGLGTRVSVFP-
+>Mus|D|Mus musculus_Std:ddY|TRDJ2*02
+---LLGHPTDVFGTGIELFVEP-
+>Mus|G|Mus musculus_BALB/c|TRGJ1*01
+----SSGFHKVFAEGTKLIVIPS
+>Mus|G|Mus musculus_BALB/c|TRGJ2*01
+----SSGFHKVFAEGTKLIVIPS
+>Mus|G|Mus musculus|TRGJ3*01
+----SWDFHKVFAEGTKLIVIPS
+>Homo_sapiens|A|Homo sapiens|TRAJ50*01
+---KTSYDKVIFGPGTSLSVIP-
 >Homo_sapiens|D|Homo sapiens|TRDJ3*01
 ---SWDTRQMFFGTGIKLFVEP-
 >Mus|D|Mus musculus_BALB/c|TRDJ2*01
 ---SWDTRQMFFGTGIELFVEP-
+>Mus|A|Mus musculus_Std:ddY|TRAJ28*01
+-LPGTGSNRLTFGKGTKFSLIP-
+>Homo_sapiens|A|Homo sapiens|TRAJ28*01
+-YSGAGSYQLTFGKGTKLSVIP-
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ15*01
 ---YQGGRALIFGTGTTVSVSP-
 >Homo_sapiens|A|Homo sapiens|TRAJ15*01
@@ -104,10 +166,18 @@
 ---NQAGTALIFGKGTHLSVSS-
 >Homo_sapiens|D|Homo sapiens|TRDJ4*01
 -------RPLIFGKGTYLEVQQ-
->Mus|A|Mus musculus_Std:ddY|TRAJ28*01
--LPGTGSNRLTFGKGTKFSLIP-
->Homo_sapiens|A|Homo sapiens|TRAJ28*01
--YSGAGSYQLTFGKGTKLSVIP-
+>Homo_sapiens|A|Homo sapiens|TRAJ44*01
+--NTGTASKLTFGTGTRLQVTL-
+>Homo_sapiens|A|Homo sapiens|TRAJ10*01
+-ILTGGGNKLTFGTGTQLKVEL-
+>Homo_sapiens|A|Homo sapiens|TRAJ56*01
+--YTGANSKLTFGKGITLSVRP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ56*01
+--ATGGNNKLTFGQGTVLSVIP-
+>Homo_sapiens|A|Homo sapiens|TRAJ11*01
+---NSGYSTLTFGKGTMLLVSP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ11*01
+---DSGYNKLTFGKGTVLLVSP-
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ24*01
 --ELASLGKLQFGTGTQVVVTP-
 >Homo_sapiens|A|Homo sapiens|TRAJ24*02
@@ -120,42 +190,42 @@
 ----NSNNRIFFGDGTQLVVKP-
 >Homo_sapiens|A|Homo sapiens|TRAJ31*01
 ----NNNARLMFGDGTQLVVKP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ45*01
---NTEGADRLTFGKGTQLIIQP-
->Homo_sapiens|A|Homo sapiens|TRAJ45*01
--YSGGGADGLTFGKGTHLIIQP-
+>Homo_sapiens|A|Homo sapiens|TRAJ41*01
+--NSNSGYALNFGKGTSLLVTP-
+>Mus|A|Mus musculus_BALB/c|TRAJ9*01
+---RNMGYKLTFGTGTSLLVDP-
 >Homo_sapiens|A|Homo sapiens|TRAJ38*01
 --NAGNNRKLIWGLGTSLAVNP-
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ38*01
 --NVGDNSKLIWGLGTSLVVNP-
 >Homo_sapiens|D|Homo sapiens|TRDJ2*01
 -----LTAQLFFGKGTQLIVEP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ12*01
+---GTGGYKVVFGSGTRLLVSP-
+>Homo_sapiens|A|Homo sapiens|TRAJ8*01
+---NTGFQKLVFGTGTRLLVSP-
 >Homo_sapiens|A|Homo sapiens|TRAJ35*01
 ---IGFGNVLHCGSGTQVIVLP-
->Homo_sapiens|A|Homo sapiens|TRAJ6*01
---ASGGSYIPTFGRGTSLIVHP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ6*01
---TSGGNYKPTFGKGTSLVVHP-
+>Homo_sapiens|A|Homo sapiens|TRAJ16*01
+---FSDGQKLLFARGTMLKVDL-
+>Homo_sapiens|A|Homo sapiens|TRAJ16*02
+---FSDGQKLLFARGTMLKVDL-
 >Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ1-2*03
 --------YNTFGGGTKVVVE--
 >Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ1-2*01
 --------YNAFGGGTEVVVK--
 >Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ1-2*02
 --------YNAFGGGTEVVVK--
+>Homo_sapiens|A|Homo sapiens|TRAJ6*01
+--ASGGSYIPTFGRGTSLIVHP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ6*01
+--TSGGNYKPTFGKGTSLVVHP-
+>Mus|A|Mus musculus_C57BL/6J|TRAJ4*02
+--LSGSFNKLTFGAGTRLAVCP-
+>Homo_sapiens|A|Homo sapiens|TRAJ4*01
+--FSGGYNKLIFGAGTRLAVHP-
 >Homo_sapiens|A|Homo sapiens|TRAJ47*01
 ----EYGNKLVFGAGTILRVKS-
->Homo_sapiens|A|Homo sapiens|TRAJ3*01
---GYSSASKIIFGSGTRLSIRP-
->Homo_sapiens|A|Homo sapiens|TRAJ5*01
----DTGRRALTFGSGTRLQVQP-
->Homo_sapiens|A|Homo sapiens|TRAJ54*01
----IQGAQKLVFGQGTRLTINP-
->Homo_sapiens|A|Homo sapiens|TRAJ30*01
-----NRDDKIIFGKGTRLHILP-
->Sus_scrofa|K|Sus scrofa|IGKJ5*01
----------ITFGEGTSVEIE--
->Sus_scrofa|K|Sus scrofa|IGKJ5*02
----------ITFGEGTSVEIE--
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ52*01
 -NTGANTGKLTFGHGTILRVHP-
 >Homo_sapiens|A|Homo sapiens|TRAJ52*01
@@ -170,10 +240,10 @@ NAGGTSYGKLTFGQGTILTVHP-
 --GSGNTGKLIFGQGTTLQVKP-
 >Homo_sapiens|A|Homo sapiens|TRAJ37*02
 --GSSNTGKLIFGQGTTLQVKP-
->Homo_sapiens|D|Homo sapiens|TRDJ1*01
-------TDKLIFGKGTRVTVEP-
 >Mus|D|Mus musculus_BALB/c|TRDJ1*01
 ------TDKLVFGQGTQVTVEP-
+>Homo_sapiens|D|Homo sapiens|TRDJ1*01
+------TDKLIFGKGTRVTVEP-
 >Mus|A|Mus musculus_BALB/c|TRAJ34*01
 ---SSNTDKVVFGTGTRLQVSP-
 >Homo_sapiens|A|Homo sapiens|TRAJ34*01
@@ -184,12 +254,6 @@ NAGGTSYGKLTFGQGTILTVHP-
 -----SNERLFFGHGTKLSVL--
 >Homo_sapiens|B|Homo sapiens|TRBJ1-4*01
 -----TNEKLFFGSGTQLSVL--
->Homo_sapiens|A|Homo sapiens|TRAJ23*01
---IYNQGGKLIFGQGTELSVKP-
->Homo_sapiens|A|Homo sapiens|TRAJ23*02
---IYNQGGKLIFGQGTELSVKP-
->Homo_sapiens|A|Homo sapiens|TRAJ48*01
---SNFGNEKLTFGTGTRLTIIP-
 >Homo_sapiens|A|Homo sapiens|TRAJ32*01
 -NYGGATNKLIFGTGTLLAVQP-
 >Homo_sapiens|A|Homo sapiens|TRAJ32*02
@@ -204,6 +268,30 @@ NAGGTSYGKLTFGQGTILTVHP-
 -NSGGSNYKLTFGKGTLLTVTP-
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ42*01
 -NSGGSNAKLTFGKGTKLSVKS-
+>Homo_sapiens|A|Homo sapiens|TRAJ3*01
+--GYSSASKIIFGSGTRLSIRP-
+>Homo_sapiens|A|Homo sapiens|TRAJ5*01
+---DTGRRALTFGSGTRLQVQP-
+>Homo_sapiens|A|Homo sapiens|TRAJ13*01
+--NSGGYQKVTFGIGTKLQVIP-
+>Homo_sapiens|A|Homo sapiens|TRAJ13*02
+--NSGGYQKVTFGTGTKLQVIP-
+>Homo_sapiens|A|Homo sapiens|TRAJ30*01
+----NRDDKIIFGKGTRLHILP-
+>Sus_scrofa|K|Sus scrofa|IGKJ5*01
+---------ITFGEGTSVEIE--
+>Sus_scrofa|K|Sus scrofa|IGKJ5*02
+---------ITFGEGTSVEIE--
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ45*01
+--NTEGADRLTFGKGTQLIIQP-
+>Homo_sapiens|A|Homo sapiens|TRAJ45*01
+-YSGGGADGLTFGKGTHLIIQP-
+>Homo_sapiens|A|Homo sapiens|TRAJ23*01
+--IYNQGGKLIFGQGTELSVKP-
+>Homo_sapiens|A|Homo sapiens|TRAJ23*02
+--IYNQGGKLIFGQGTELSVKP-
+>Homo_sapiens|A|Homo sapiens|TRAJ48*01
+--SNFGNEKLTFGTGTRLTIIP-
 >Homo_sapiens|A|Homo sapiens|TRAJ33*01
 ----DSNYQLIWGAGTKLIIKP-
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ33*01
@@ -220,48 +308,46 @@ NAGGTSYGKLTFGQGTILTVHP-
 ----YNFNKFYFGSGTKLNVKP-
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ23*01
 ---NYNQGKLIFGQGTKLSIKP-
->Homo_sapiens|K|Homo sapiens|IGKJ4*01
----------LTFGGGTKVEIK--
->Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ2-1*01
----------LTFGAGTKVEIK--
->Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ2-2*01
---------SNTFGAGTKVEIK--
->Homo_sapiens|K|Homo sapiens|IGKJ1*01
----------WTFGQGTKVEIK--
->Macaca_mulatta|K|Macaca mulatta|IGKJ1*01
----------WTFGQGTKVEIK--
->Bos_taurus|K|Bos taurus_Hereford|IGKJ2*01
----------NTFGQGTKVEIK--
->Sus_scrofa|K|Sus scrofa|IGKJ2*02
----------NGFGAGTKLELK--
->Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ2-2*01
----------DTFGAGTKLELK--
->Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ2-1*01
----------NTFGAGTKLELK--
->Mus|K|Mus musculus|IGKJ5*01
----------LTFGAGTKLELK--
->Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ2-3*01
----------YTFGAGTKLELK--
->Sus_scrofa|K|Sus scrofa|IGKJ2*01
----------YGFGAGTKLELK--
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ48*01
 --ANYGNEKITFGAGTKLTIKP-
+>Felus_catus|K|Felus_catus|IGKJ5*01
+---------TTFGQGTHLEIK--
+>Canis_lupus|K|Canis_lupus|IGKJ5*01
+---------ITFGKGTHLEIK--
+>Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ2-3*01
+---------ITFGKGTKLEIK--
+>Homo_sapiens|K|Homo sapiens|IGKJ5*01
+---------ITFGQGTRLEIK--
 >Mus|K|Mus musculus_C58|IGKJ1*02
 ---------PTFGGGTKLEIN--
 >Sus_scrofa|K|Sus scrofa|IGKJ3*01
 ---------FTFGSGTKVEPK--
->Homo_sapiens|K|Homo sapiens|IGKJ5*01
----------ITFGQGTRLEIK--
->Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ2-3*01
----------ITFGKGTKLEIK--
 >Sus_scrofa|K|Sus scrofa|IGKJ4*01
 ---------VVFGSGTKLEIK--
 >Sus_scrofa|K|Sus scrofa|IGKJ4*02
 ---------VVFGSGTKLEIK--
->Sus_scrofa|K|Sus scrofa|IGKJ1*01
----------WTFGQGTKLELK--
 >Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ1*01
 ---------WTFGGGTKLELK--
+>Felus_catus|K|Felus_catus|IGKJ1*01
+---------WTFGQGTKLEVK--
+>Sus_scrofa|K|Sus scrofa|IGKJ1*01
+---------WTFGQGTKLELK--
+>Felus_catus|K|Felus_catus|IGKJ2*01
+---------YNFGQGTKLEIK--
+>Canis_lupus|K|Canis_lupus|IGKJ2*01
+---------YTFSQGTKLEIK--
+>Homo_sapiens|K|Homo sapiens|IGKJ2*01
+---------YTFGQGTKLEIK--
+>Mus|K|Mus musculus|IGKJ1*01
+---------WTFGGGTKLEIK--
+>Mus|K|Mus musculus|IGKJ2*01
+---------YTFGGGTKLEIK--
+>Mus|K|Mus musculus_C58|IGKJ2*02
+---------YTFGSGTKLEMK--
+>Mus|K|Mus musculus_C58|IGKJ2*03
+---------YTFGSGTKLEIK--
+>Felus_catus|K|Felus_catus|IGKJ4*01
+---------LTFGPGTKLEIK--
 >Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ5*01
 ---------LTFGSGTKLEIK--
 >Mus|K|Mus musculus_C58|IGKJ4*02
@@ -270,86 +356,86 @@ NAGGTSYGKLTFGQGTILTVHP-
 ---------FTFGSGTKLEIK--
 >Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ4*01
 ---------FTFGSGTKLEIK--
->Mus|K|Mus musculus_C58|IGKJ2*02
----------YTFGSGTKLEMK--
->Mus|K|Mus musculus|IGKJ1*01
----------WTFGGGTKLEIK--
->Homo_sapiens|K|Homo sapiens|IGKJ2*01
----------YTFGQGTKLEIK--
->Mus|K|Mus musculus|IGKJ2*01
----------YTFGGGTKLEIK--
->Mus|K|Mus musculus_C58|IGKJ2*03
----------YTFGSGTKLEIK--
->Homo_sapiens|G|Homo sapiens|TRGJP2*01
-----SSDWIKTFAKGTRLIVTSP
->Mus|G|Mus musculus|TRGJ4*01
----SGTSWVKIFAKGTKLVVIPP
->Homo_sapiens|G|Homo sapiens|TRGJP1*01
-----TTGWFKIFAEGTKLIVTSP
->Homo_sapiens|A|Homo sapiens|TRAJ16*01
----FSDGQKLLFARGTMLKVDL-
->Homo_sapiens|A|Homo sapiens|TRAJ16*02
----FSDGQKLLFARGTMLKVDL-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ50*01
---ASSSFSKLVFGQGTSLSVVP-
+>Felus_catus|K|Felus_catus|IGKJ3*01
+---------FTFGQGTKLEMK--
+>Canis_lupus|K|Canis_lupus|IGKJ3*01
+---------FTFGQGTKLEIK--
+>Sus_scrofa|K|Sus scrofa|IGKJ2*02
+---------NGFGAGTKLELK--
+>Sus_scrofa|K|Sus scrofa|IGKJ2*01
+---------YGFGAGTKLELK--
+>Mus|K|Mus musculus|IGKJ5*01
+---------LTFGAGTKLELK--
+>Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ2-3*01
+---------YTFGAGTKLELK--
+>Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ2-1*01
+---------NTFGAGTKLELK--
+>Rattus_norvegicus|K|Rattus norvegicus_Louvain|IGKJ2-2*01
+---------DTFGAGTKLELK--
+>Canis_lupus|K|Canis_lupus|IGKJ1*01
+---------WTFGAGTKVELK--
+>Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ2-2*01
+--------SNTFGAGTKVEIK--
+>Oryctolagus_cuniculus|K|Oryctolagus cuniculus|IGKJ2-1*01
+---------LTFGAGTKVEIK--
+>Homo_sapiens|K|Homo sapiens|IGKJ4*01
+---------LTFGGGTKVEIK--
+>Homo_sapiens|K|Homo sapiens|IGKJ1*01
+---------WTFGQGTKVEIK--
+>Macaca_mulatta|K|Macaca mulatta|IGKJ1*01
+---------WTFGQGTKVEIK--
+>Canis_lupus|K|Canis_lupus|IGKJ4*01
+---------LTFGQGTKVEIK--
+>Bos_taurus|K|Bos taurus_Hereford|IGKJ2*01
+---------NTFGQGTKVEIK--
+>Homo_sapiens|A|Homo sapiens|TRAJ46*01
+--KKSSGDKLTFGTGTRLAVRP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ58*01
+--QQGTGSKLSFGKGAKLTVSP-
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ16*01
 --ATSSGQKLVFGQGTILKVYL-
->Mus|D|Mus musculus_Std:ddY|TRDJ2*02
----LLGHPTDVFGTGIELFVEP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ13*01
-----NSGTYQRFGTGTKLQVVP-
->Mus|G|Mus musculus_BALB/c|TRGJ1*01
-----SSGFHKVFAEGTKLIVIPS
->Mus|G|Mus musculus_BALB/c|TRGJ2*01
-----SSGFHKVFAEGTKLIVIPS
->Mus|G|Mus musculus|TRGJ3*01
-----SWDFHKVFAEGTKLIVIPS
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ26*01
----NNYAQGLTFGLGTRVSVFP-
->Homo_sapiens|A|Homo sapiens|TRAJ50*01
----KTSYDKVIFGPGTSLSVIP-
->Homo_sapiens|A|Homo sapiens|TRAJ44*01
---NTGTASKLTFGTGTRLQVTL-
->Homo_sapiens|A|Homo sapiens|TRAJ10*01
--ILTGGGNKLTFGTGTQLKVEL-
->Homo_sapiens|A|Homo sapiens|TRAJ56*01
---YTGANSKLTFGKGITLSVRP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ56*01
---ATGGNNKLTFGQGTVLSVIP-
->Homo_sapiens|A|Homo sapiens|TRAJ11*01
----NSGYSTLTFGKGTMLLVSP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ11*01
----DSGYNKLTFGKGTVLLVSP-
->Homo_sapiens|A|Homo sapiens|TRAJ41*01
---NSNSGYALNFGKGTSLLVTP-
->Mus|A|Mus musculus_BALB/c|TRAJ9*01
----RNMGYKLTFGTGTSLLVDP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ12*01
----GTGGYKVVFGSGTRLLVSP-
->Homo_sapiens|A|Homo sapiens|TRAJ8*01
----NTGFQKLVFGTGTRLLVSP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ49*01
----NTGYQNFYFGKGTSLTVIPS
->Homo_sapiens|A|Homo sapiens|TRAJ49*01
-----NTGNQFYFGTGTSLTVIP-
->Mus|A|Mus musculus_C57BL/6J|TRAJ4*02
---LSGSFNKLTFGAGTRLAVCP-
->Homo_sapiens|A|Homo sapiens|TRAJ4*01
---FSGGYNKLIFGAGTRLAVHP-
+>Homo_sapiens|A|Homo sapiens|TRAJ18*01
+-DRGSTLGRLYFGRGTQLTVWP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ18*01
+-DRGSALGRLHFGAGTQLIVIP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ2*01
+-NTGGLSGKLTFGEGTQVTVIS-
+>Mus|A|Mus musculus_B10.A|TRAJ2*02
+--NTGLSGKLTFGEGTQVTVIS-
 >Homo_sapiens|A|Homo sapiens|TRAJ14*01
 -----IYSTFIFGSGTRLSVKP-
 >Homo_sapiens|A|Homo sapiens|TRAJ36*01
 ---QTGANNLFFGTGTRLTVIP-
 >Homo_sapiens|A|Homo sapiens|TRAJ12*01
 ---MDSSYKLIFGSGTRLLVRP-
+>Homo_sapiens|G|Homo sapiens|TRGJP*01
+-GQELGKKIKVFGPGTKLIIT--
+>Felus_catus|L|Felus_catus|IGLJ3*01
+---------FVFSYGTRVTIL--
+>Homo_sapiens|A|Homo sapiens|TRAJ49*01
+----NTGNQFYFGTGTSLTVIP-
+>Homo_sapiens|A|Homo sapiens|TRAJ20*01
+----SNDYKLSFGAGTTVTVRA-
+>Homo_sapiens|G|Homo sapiens|TRGJ1*01
+-----NYYKKLFGSGTTLVVT--
+>Homo_sapiens|G|Homo sapiens|TRGJ1*02
+-----NYYKKLFGSGTTLVVT--
+>Homo_sapiens|G|Homo sapiens|TRGJ2*01
+-----NYYKKLFGSGTTLVVT--
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ49*01
+---NTGYQNFYFGKGTSLTVIPS
 >Mus|A|Mus musculus_B10.A|TRAJ5*01
 --GTQVVGQLTFGRGTRLQVYA-
->Mus|B|Mustela putorius furo_sable|TRBJ1-6*01
-----SYNSPLYFGMGTRLTVT--
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ50*01
+--ASSSFSKLVFGQGTSLSVVP-
+>Homo_sapiens|A|Homo sapiens|TRAJ54*01
+---IQGAQKLVFGQGTRLTINP-
 >Homo_sapiens|B|Homo sapiens|TRBJ1-6*01
 ----SYNSPLHFGNGTRLTVT--
 >Homo_sapiens|B|Homo sapiens|TRBJ1-6*02
 ----SYNSPLHFGNGTRLTVT--
+>Mus|B|Mustela putorius furo_sable|TRBJ1-6*01
+----SYNSPLYFGMGTRLTVT--
 >Homo_sapiens|B|Homo sapiens|TRBJ1-3*01
 -----SGNTIYFGEGSWLTVV--
 >Mus|B|Mus musculus_B10.A|TRBJ1-3*01
@@ -360,46 +446,66 @@ NAGGTSYGKLTFGQGTILTVHP-
 -----NTGQLYFGEGSKLTVL--
 >Mus|B|Mustela putorius furo_sable|TRBJ2-2*01
 -----NTGQLYFGAGSKLTVL--
->Homo_sapiens|A|Homo sapiens|TRAJ29*01
----NSGNTPLVFGKGTRLSVIA-
 >Homo_sapiens|A|Homo sapiens|TRAJ43*01
 -----NNNDMRFGAGTRLTVKP-
 >Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ43*01
 ----NNNNAPRFGAGTKLSVKP-
+>Homo_sapiens|A|Homo sapiens|TRAJ29*01
+---NSGNTPLVFGKGTRLSVIA-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ17*01
+--TNSAGNKLTFGIGTRVLVRP-
+>Homo_sapiens|A|Homo sapiens|TRAJ17*01
+--IKAAGNKLTFGGGTRVLVKP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ57*01
+--NQGGSAKLIFGEGTKLTVSS-
 >Mus|B|Mustela putorius furo_sable|TRBJ1-2*01
 -------YDFTFGPGTKLTVV--
->Mus|B|Mus musculus_B10.A|TRBJ1-2*01
-------NSDYTFGSGTRLLVI--
->Mus|B|Mustela putorius furo_sable|TRBJ1-5*01
------SNQAQHFGDGTQLLVL--
->Homo_sapiens|B|Homo sapiens|TRBJ1-5*01
------SNQPQHFGDGTRLSIL--
->Homo_sapiens|A|Homo sapiens|TRAJ26*01
----DNYGQNFVFGPGTRLSVLP-
+>Homo_sapiens|A|Homo sapiens|TRAJ39*01
+--NNNAGNMLTFGGGTRLMVKP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ39*01
+--NNNAGAKLTFGGGTRLTVRP-
 >Homo_sapiens|B|Homo sapiens|TRBJ2-4*01
 -----AKNIQYFGAGTRLSVL--
->Homo_sapiens|B|Homo sapiens|TRBJ2-6*01
-----SGANVLTFGAGSRLTVL--
->Homo_sapiens|B|Homo sapiens|TRBJ1-2*01
-------NYGYTFGSGTRLTVV--
->Homo_sapiens|A|Homo sapiens|TRAJ9*01
---GNTGGFKTIFGAGTRLFVKA-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ40*01
---VNTGNYKYVFGAGTRLKVIA-
 >Mus|B|Mus musculus_SJL/J|TRBJ1-5*03
 -----NNQAQHFGEGTRLSVL--
 >Mus|B|Mus musculus_BALB/c|TRBJ1-5*01
 -----NNQAPLFGEGTRLSVL--
 >Sus_scrofa|L|Sus scrofa|IGLJ4*01
 ---------DRFGRGTRLSVL--
->Mus|B|Mus musculus_B10.A|TRBJ2-4*01
------SQNTLYFGAGTRLSVL--
->Mus|B|Mustela putorius furo_sable|TRBJ2-4*01
------SQNTQYFGAGTRLTVL--
->Homo_sapiens|A|Homo sapiens|TRAJ40*01
---TTSGTYKYIFGTGTRLKVLA-
->Macaca_mulatta|L|Macaca mulatta|IGLJ1*01
----------YIFGAGTRLTVL--
+>Mus|B|Mus musculus_B10.A|TRBJ1-2*01
+------NSDYTFGSGTRLLVI--
+>Homo_sapiens|B|Homo sapiens|TRBJ1-1*01
+------NTEAFFGQGTRLTVV--
+>Mus|B|Mus musculus_B10.A|TRBJ1-1*01
+------NTEVFFGKGTRLTVV--
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ22*01
+---SSGSWQLIFGSGTQLTVMP-
+>Felus_catus|L|Felus_catus|IGLJ12*01
+---------YVFNGGTQVTIL--
+>Homo_sapiens|A|Homo sapiens|TRAJ26*01
+---DNYGQNFVFGPGTRLSVLP-
+>Homo_sapiens|B|Homo sapiens|TRBJ2-6*01
+----SGANVLTFGAGSRLTVL--
+>Homo_sapiens|B|Homo sapiens|TRBJ1-2*01
+------NYGYTFGSGTRLTVV--
+>Homo_sapiens|A|Homo sapiens|TRAJ9*01
+--GNTGGFKTIFGAGTRLFVKA-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ21*01
+----SNYNVLYFGSGTKLTVEP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ40*01
+--VNTGNYKYVFGAGTRLKVIA-
+>Homo_sapiens|A|Homo sapiens|TRAJ57*01
+--TQGGSEKLVFGKGTKLTVNP-
+>Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ30*01
+---DTNAYKVIFGKGTHLHVLP-
+>Canis_lupus|L|Canis_lupus|IGLJ2*01
+---------MVFGRGTQLTIL--
+>Homo_sapiens|B|Homo sapiens|TRBJ1-5*01
+-----SNQPQHFGDGTRLSIL--
+>Mus|B|Mustela putorius furo_sable|TRBJ1-5*01
+-----SNQAQHFGDGTQLLVL--
+>Felus_catus|L|Felus_catus|IGLJ6*01
+---------FVFGRGTWLTVL--
 >Homo_sapiens|B|Homo sapiens|TRBJ2-5*01
 ------QETQYFGPGTRLLVL--
 >Mus|B|Mus musculus_B10.A|TRBJ2-5*01
@@ -410,104 +516,60 @@ NAGGTSYGKLTFGQGTILTVHP-
 -----SGETQYFGRGTRLTVL--
 >Mus|B|Mus musculus_B10.A|TRBJ2-3*01
 -----SAETLYFGSGTRLTVL--
->Mus|B|Mus musculus_B10.A|TRBJ2-1*01
------NYAEQFFGPGTRLTVL--
->Homo_sapiens|B|Homo sapiens|TRBJ2-1*01
------SYNEQFFGPGTRLTVL--
->Homo_sapiens|B|Homo sapiens|TRBJ2-7*01
-------SYEQYFGPGTRLTVT--
->Mus|B|Mus musculus_B10.A|TRBJ2-7*01
-------SYEQYFGPGTRLTVL--
->Mus|B|Mustela putorius furo_sable|TRBJ2-6*01
-------SYEQYFGSGTRLTVI--
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ2*01
--NTGGLSGKLTFGEGTQVTVIS-
->Mus|A|Mus musculus_B10.A|TRAJ2*02
---NTGLSGKLTFGEGTQVTVIS-
->Homo_sapiens|A|Homo sapiens|TRAJ18*01
--DRGSTLGRLYFGRGTQLTVWP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ18*01
--DRGSALGRLHFGAGTQLIVIP-
->Homo_sapiens|A|Homo sapiens|TRAJ46*01
---KKSSGDKLTFGTGTRLAVRP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ58*01
---QQGTGSKLSFGKGAKLTVSP-
->Homo_sapiens|A|Homo sapiens|TRAJ13*01
---NSGGYQKVTFGIGTKLQVIP-
->Homo_sapiens|A|Homo sapiens|TRAJ13*02
---NSGGYQKVTFGTGTKLQVIP-
->Homo_sapiens|G|Homo sapiens|TRGJP*01
--GQELGKKIKVFGPGTKLIIT--
->Homo_sapiens|A|Homo sapiens|TRAJ20*01
-----SNDYKLSFGAGTTVTVRA-
->Homo_sapiens|G|Homo sapiens|TRGJ1*01
------NYYKKLFGSGTTLVVT--
->Homo_sapiens|G|Homo sapiens|TRGJ1*02
------NYYKKLFGSGTTLVVT--
->Homo_sapiens|G|Homo sapiens|TRGJ2*01
------NYYKKLFGSGTTLVVT--
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ22*01
----SSGSWQLIFGSGTQLTVMP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ17*01
---TNSAGNKLTFGIGTRVLVRP-
->Homo_sapiens|A|Homo sapiens|TRAJ17*01
---IKAAGNKLTFGGGTRVLVKP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ57*01
---NQGGSAKLIFGEGTKLTVSS-
->Homo_sapiens|A|Homo sapiens|TRAJ39*01
---NNNAGNMLTFGGGTRLMVKP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ39*01
---NNNAGAKLTFGGGTRLTVRP-
->Mus|B|Mus musculus_B10.A|TRBJ1-1*01
-------NTEVFFGKGTRLTVV--
->Homo_sapiens|B|Homo sapiens|TRBJ1-1*01
-------NTEAFFGQGTRLTVV--
->Homo_sapiens|A|Homo sapiens|TRAJ22*01
---SSGSARQLTFGSGTQLTVLP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ21*01
-----SNYNVLYFGSGTKLTVEP-
->Homo_sapiens|A|Homo sapiens|TRAJ57*01
---TQGGSEKLVFGKGTKLTVNP-
->Mus|A|Mus musculus_B10.D2-H2dm1|TRAJ30*01
----DTNAYKVIFGKGTHLHVLP-
->Sus_scrofa|L|Sus scrofa|IGLJ2*01
----------NIFGGGTHLTVL--
->Sus_scrofa|L|Sus scrofa|IGLJ2*02
----------NIFGGGTHLTVL--
->Sus_scrofa|L|Sus scrofa|IGLJ3*01
----------VPFGGGTHLTVL--
->Bos_taurus|L|Bos taurus_Hereford|IGLJ3*01
----------DLFGGGTTVTVL--
->Bos_taurus|L|Bos taurus_Hereford|IGLJ2*01
----------DLFGGGTRVTVL--
->Macaca_mulatta|L|Macaca mulatta|IGLJ3*01
----------VLFGGGTRLTVL--
->Macaca_mulatta|L|Macaca mulatta|IGLJ2*01
----------GLFGGGTRLTVL--
 >Mus|L|Mus musculus_BALB/c|IGLJ3*01
 ---------FIFGSGTKVTVL--
->Homo_sapiens|L|Homo sapiens|IGLJ1*01
----------YVFGTGTKVTVL--
+>Felus_catus|L|Felus_catus|IGLJ4*01
+---------YVFGGGTKVTVL--
 >Mus|L|Mus musculus_BALB/c|IGLJ2*01
 ---------YVFGGGTKVTVL--
+>Homo_sapiens|L|Homo sapiens|IGLJ1*01
+---------YVFGTGTKVTVL--
 >Homo_sapiens|L|Homo sapiens|IGLJ6*01
 ---------NVFGSGTKVTVL--
->Oryctolagus_cuniculus|L|Oryctolagus cuniculus|IGLJ5*01
----------YVFGGGTQLTVT--
 >Oryctolagus_cuniculus|L|Oryctolagus cuniculus|IGLJ6*01
 ---------VVFGGGTQLTVT--
->Homo_sapiens|L|Homo sapiens|IGLJ7*02
----------AVFGGGTQLTAL--
->Homo_sapiens|L|Homo sapiens|IGLJ7*01
----------AVFGGGTQLTVL--
->Macaca_mulatta|L|Macaca mulatta|IGLJ5*01
----------WVFGEGTKLTIL--
+>Oryctolagus_cuniculus|L|Oryctolagus cuniculus|IGLJ5*01
+---------YVFGGGTQLTVT--
+>Homo_sapiens|A|Homo sapiens|TRAJ22*01
+--SSGSARQLTFGSGTQLTVLP-
+>Canis_lupus|L|Canis_lupus|IGLJ4*01
+---------YVFGSGTQLTVL--
+>Canis_lupus|L|Canis_lupus|IGLJ9*01
+---------YVFGSGTQLTVL--
 >Bos_taurus|L|Bos taurus_Hereford|IGLJ4*01
 ---------AVFGSGTTLTVL--
 >Bos_taurus|L|Bos taurus_Hereford|IGLJ7*01
 ---------AVFGSGTTLTVL--
 >Bos_taurus|L|Bos taurus_Hereford|IGLJ8*01
 ---------AVFGSGTTLTVL--
+>Macaca_mulatta|L|Macaca mulatta|IGLJ6*01
+---------DVFGSGTKLTVL--
+>Mus|B|Mus musculus_B10.A|TRBJ2-4*01
+-----SQNTLYFGAGTRLSVL--
+>Mus|B|Mustela putorius furo_sable|TRBJ2-4*01
+-----SQNTQYFGAGTRLTVL--
+>Homo_sapiens|A|Homo sapiens|TRAJ40*01
+--TTSGTYKYIFGTGTRLKVLA-
+>Macaca_mulatta|L|Macaca mulatta|IGLJ1*01
+---------YIFGAGTRLTVL--
+>Felus_catus|L|Felus_catus|IGLJ1*01
+---------WVFGGGTHLSVL--
+>Sus_scrofa|L|Sus scrofa|IGLJ3*01
+---------VPFGGGTHLTVL--
+>Macaca_mulatta|L|Macaca mulatta|IGLJ5*01
+---------WVFGEGTKLTIL--
+>Felus_catus|L|Felus_catus|IGLJ10*01
+---------WVFGDGTQLTVL--
+>Felus_catus|L|Felus_catus|IGLJ8*01
+---------WVFGDGTQLTVL--
+>Canis_lupus|L|Canis_lupus|IGLJ1*01
+---------WVFGEGTQLTVL--
+>Felus_catus|L|Felus_catus|IGLJ2*01
+---------HIFGGGTHLTVL--
+>Sus_scrofa|L|Sus scrofa|IGLJ2*01
+---------NIFGGGTHLTVL--
+>Sus_scrofa|L|Sus scrofa|IGLJ2*02
+---------NIFGGGTHLTVL--
 >Homo_sapiens|L|Homo sapiens|IGLJ3*02
 ---------WVFGGGTKLTVL--
 >Mus|L|Mus musculus_BALB/c|IGLJ1*01
@@ -520,5 +582,43 @@ NAGGTSYGKLTFGQGTILTVHP-
 ---------PVFGGGTKLTVL--
 >Rattus_norvegicus|L|Rattus norvegicus_BN/SsNHsdMCW|IGLJ3*01
 ---------PVFGGGTKLTVL--
->Macaca_mulatta|L|Macaca mulatta|IGLJ6*01
----------DVFGSGTKLTVL--
+>Felus_catus|L|Felus_catus|IGLJ7*01
+---------ALFGGGTHLTVL--
+>Felus_catus|L|Felus_catus|IGLJ11*01
+---------IVFGGGTHLTVL--
+>Felus_catus|L|Felus_catus|IGLJ9*01
+---------IVFGGGTHLTVL--
+>Canis_lupus|L|Canis_lupus|IGLJ5*01
+---------IVFGGGTHLTVL--
+>Canis_lupus|L|Canis_lupus|IGLJ3*01
+---------SVFGGGTHLTVL--
+>Canis_lupus|L|Canis_lupus|IGLJ6*01
+---------GVFGGGTHLTVL--
+>Canis_lupus|L|Canis_lupus|IGLJ7*01
+---------AVFGGGTHLTVL--
+>Canis_lupus|L|Canis_lupus|IGLJ8*01
+---------AVFGGGTHLTVL--
+>Homo_sapiens|L|Homo sapiens|IGLJ7*02
+---------AVFGGGTQLTAL--
+>Homo_sapiens|L|Homo sapiens|IGLJ7*01
+---------AVFGGGTQLTVL--
+>Bos_taurus|L|Bos taurus_Hereford|IGLJ3*01
+---------DLFGGGTTVTVL--
+>Bos_taurus|L|Bos taurus_Hereford|IGLJ2*01
+---------DLFGGGTRVTVL--
+>Macaca_mulatta|L|Macaca mulatta|IGLJ3*01
+---------VLFGGGTRLTVL--
+>Macaca_mulatta|L|Macaca mulatta|IGLJ2*01
+---------GLFGGGTRLTVL--
+>Felus_catus|L|Felus_catus|IGLJ5*01
+---------PIFGGGTRLTVL--
+>Mus|B|Mus musculus_B10.A|TRBJ2-1*01
+-----NYAEQFFGPGTRLTVL--
+>Homo_sapiens|B|Homo sapiens|TRBJ2-1*01
+-----SYNEQFFGPGTRLTVL--
+>Homo_sapiens|B|Homo sapiens|TRBJ2-7*01
+------SYEQYFGPGTRLTVT--
+>Mus|B|Mus musculus_B10.A|TRBJ2-7*01
+------SYEQYFGPGTRLTVL--
+>Mus|B|Mustela putorius furo_sable|TRBJ2-6*01
+------SYEQYFGSGTRLTVI--
